@@ -11,5 +11,8 @@ My code snippet collections for learning Go programming language to solve partic
 ## Function
 1. <a href="https://github.com/azhry/golang-self-learning/blob/master/dynamic_params.go">Dynamic Params</a>
 
+## GORM
+1. <a href="https://github.com/azhry/golang-self-learning/blob/master/gorm_has_many.go">Association: Has Many</a>
+
 <hr/>
 &copy; Azhary Arliansyah
