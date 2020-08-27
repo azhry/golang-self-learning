@@ -12,7 +12,8 @@ My code snippet collections for learning Go programming language to solve partic
 1. <a href="https://github.com/azhry/golang-self-learning/blob/master/dynamic_params.go">Dynamic Params</a>
 
 ## GORM
-1. <a href="https://github.com/azhry/golang-self-learning/blob/master/gorm_has_many.go">Association: Has Many</a>
+1. <a href="https://github.com/azhry/golang-self-learning/blob/master/gorm_has_many.go">Select Association: Has Many</a>
+2. <a href="https://github.com/azhry/golang-self-learning/blob/master/gorm_has_many_insertion.go">Insert Association: Has Many</a>
 
 <hr/>
 &copy; Azhary Arliansyah
